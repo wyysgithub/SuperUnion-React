@@ -1,0 +1,7 @@
+.profit{height: 970px}
+
+.modeList{text-align: center;}
+.modeList>div{position: relative;margin:0 43px;width:380px;height: 262px;background: url("../../images/home/mode-bg.png") no-repeat}
+.modeList>div>h1{position: absolute;width: 152px;height:152px;border-radius:100%;font-size: 100px;font-weight: 600;background-color: #e8f8f9;color: #ffffff;z-index: 2;top: -30px;left: 113px;}
+.modeList>div>p{position: relative;font-size: 23px;margin-top: 80px;font-weight: 600;z-index: 3}
+.modeList>div>span{position: relative;display: block;margin: 0 auto;width: 270px;font-size: 17px;color: #484f4f;z-index: 3}

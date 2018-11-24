@@ -1,0 +1,10 @@
+.banner{width: 1920px;height:977px;margin:0 auto;background: url("../../images/banner/banner.png") no-repeat top center;background-size: 1920px}
+/*.xxm{width: 100px;height:100px;border:10px solid #000000;margin:10px auto;padding: 20px;color: rgba(12,12,12,.5)}*/
+
+.container>.banner-info{padding-top: 230px;}
+.container>.banner-info>img{display: inline-block}
+.container>.banner-info>.info{float: right;text-align: right;vertical-align: top}
+.container>.banner-info>.info h1{color: #ffffff;font-size: 58px;}
+.container>.banner-info>.info p{color: #1d4e8c;font-size: 30px;margin: 30px 0}
+.container>.banner-info>.info span{display: block;color: #ffffff;font-size: 30px;}
+.container>.banner-info>.info button{width: 240px;height:58px;margin: 30px 0;border-radius:58px;background-color:#ffffff;color: #5151ff;font-size: 28px;border: 0;cursor: pointer}

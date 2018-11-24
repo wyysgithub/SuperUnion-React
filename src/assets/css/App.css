@@ -1,3 +1,20 @@
+*{outline: none}
+body{
+  background: url("../../assets/images/account/bg.png") no-repeat top center;
+}
+.fl{float: left}
+.fr{float: right}
+.w50{width: 50%}
+.w25{width: 25%}
+.clearfix{overflow:hidden;_zoom:1;}
+
+
+
+.container{width: 1400px;margin: 0 auto}
+.container>h2{font-size: 35px;color: #262626}
+.container>h3{font-size: 24px;font-weight: 400;color: #595959}
+
+
 .App {
   text-align: center;
 }

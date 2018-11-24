@@ -1,0 +1,8 @@
+.oto{height: 840px}
+
+.opportunityList{text-align: left;}
+.opportunityList>div{margin: 20px 65px;width: 560px;height: 288px;background-color:#ffffff;box-shadow: 2px 2px 10px rgba(0,0,0,.4);border-radius: 15px}
+.opportunityList>div>div{margin:60px 40px 0;}
+.opportunityList>div>div>p{display: inline-block;margin-left:20px;font-size: 24px;color:#3e3e3e;}
+.opportunityList>div>div>div{display: inline-block;width: 54px;height:54px;border-radius:54px;text-align:center;line-height:70px;background-color: #8a8fb9;}
+.opportunityList>div>span{display: block;margin:0 40px;padding-bottom:30px;color: #7b88a9;font-size: 18px;border-bottom: #e7e8f1 dashed  1px;line-height: 1.5}
