@@ -2,3 +2,4 @@
 
 .contact>.container>h2{font-size: 35px;color: #ffffff}
 .contact>.container>h3{font-size: 24px;font-weight: 400;color: #eeeeee}
+.contact>.container>button{width: 370px;height:72px;margin-top: 50px;font-size: 30px;background-color: #ffffff;color: #35c6e5;border-radius: 10px;box-shadow: 1px 1px 10px rgba(0,0,0,.5)}

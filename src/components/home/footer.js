@@ -6,10 +6,7 @@ import "../../assets/css/home/footer.css";
 class Footer extends React.Component{
     constructor(props){
         super(props);
-        this.state={
-            title:"联系我们",
-            describe:"每一个时代都是一次革命。每一个革命都成就一批创富英雄",
-        }
+        this.state={}
     }
     render(){
         return(

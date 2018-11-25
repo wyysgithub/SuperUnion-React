@@ -2,6 +2,7 @@
 body{
   background: url("../../assets/images/account/bg.png") no-repeat top center;
 }
+button{border: 0;cursor: pointer}
 .fl{float: left}
 .fr{float: right}
 .w50{width: 50%}
